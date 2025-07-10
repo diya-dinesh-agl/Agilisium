@@ -4,7 +4,7 @@ Expentia is a Python-based application designed to help users manage and analyze
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Smart financial recommendations**
 - **Interactive charts and data visualizations**
@@ -12,7 +12,7 @@ Expentia is a Python-based application designed to help users manage and analyze
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.7+
@@ -38,7 +38,7 @@ python app.py
 
 ---
 
-## 📁 File Structure & Details
+## File Structure & Details
 
 - **app.py** — Main application entry point. Orchestrates the app, routes user requests, and integrates modules.
 - **charts.py** — Logic for generating interactive charts and data visualizations of spending patterns.
